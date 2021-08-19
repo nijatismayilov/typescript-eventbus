@@ -1,0 +1,21 @@
+{
+  "name": "typescript-eventbus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.ts"
+  },
+  "keywords": [],
+  "author": "Nijat ISmayilov",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.6.2",
+    "nodemon": "^2.0.12",
+    "tslib": "^2.3.1",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "nanoid": "^3.1.25"
+  }
+}
